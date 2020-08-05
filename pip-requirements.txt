@@ -5,3 +5,4 @@ redis>=3.3.0
 requests==2.20.0
 six>=1.12.0
 boto3
+frictionless-ckan-mapper
